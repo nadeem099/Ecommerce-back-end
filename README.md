@@ -33,5 +33,7 @@ This backend has following features(Apps):
 
 ```http://127.0.0.1:8000/api/user/```
 
+```http://127.0.0.1:8000/api/product/{product-keyword}/``` (note: don't use {} while using)
+
 ## Follow the below link for the front end built using this api
 [E-commerce front end built using Reactjs](https://github.com/nadeem099/ECommerce-front-end)
